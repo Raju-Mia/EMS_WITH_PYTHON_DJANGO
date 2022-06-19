@@ -1,0 +1,13 @@
+------------download than extract- the zip file-----------
+
+
+install python latest version(Python 3.9.1).
+
+
+go to current working directory(project location)
+Activate envirorment: ppemsenv\Scripts\activate
+Install Django: pip install django==3.1.7 
+login project: cd ppemsproject
+Run server: python manage.py runserver
+
+------------enjoy----------
